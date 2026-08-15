@@ -1,8 +1,8 @@
 class TerminalGroove < Formula
   desc "Terminal groovebox for creating music in the terminal"
   homepage "https://github.com/dud0/terminal-groove"
-  url "https://github.com/dud0/terminal-groovebox/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "d093e1ba3ef0e31b0ec3deaa682ce5c24d2b211ecac2e4d66e7284784c00f8ff"
+  url "https://github.com/dud0/terminal-groove/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "5160c7f08f16fc15f654c3fd2fb794f38b568e14b70e8a54a16c2448980b3c38"
   license "MIT"
 
   depends_on "rust" => :build
