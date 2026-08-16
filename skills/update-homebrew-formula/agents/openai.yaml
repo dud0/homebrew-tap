@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Homebrew Formula"
+  short_description: "Safely update a tap formula release"
+  default_prompt: "Use $update-homebrew-formula to update this tap formula to a new upstream release."
